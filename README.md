@@ -184,7 +184,7 @@ MainSection:Toggle("Aotu Farm",false,function(State)
 
   end)
 
-    MainSection:Button("Aotu Pets",false,function()
+    MainSection:Toggle("Aotu Pets",false,function()
 
 while wait(0.1) do
 
