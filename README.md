@@ -14,7 +14,7 @@ credit:Label("FarmPets [New]" )
 
 credit:Label("Update จะมีภาษาไทย" )
 
-credit:Label("วิธีเปลี่ยนสี _G.Color = Color3.fromRGB(96, 255, 16) [New]" )
+credit:Label("[New]" )
 
 credit:Label("+1xliiHub" )
 
