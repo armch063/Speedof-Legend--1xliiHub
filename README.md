@@ -6,7 +6,7 @@ end
 
 local UILib = loadstring(game:HttpGet('https://pastebin.com/raw/qwJTEGuU'))()
 
-local win = UILib:Window("1xliiHUB",_G.Color = Color3.fromRGB(96, 255, 16), Enum.KeyCode.RightControl)
+local win = UILib:Window("1xliiHUB",Color3.fromRGB(96, 255, 16), Enum.KeyCode.RightControl)
 
 local credit = win:Tab("#credit")
 
